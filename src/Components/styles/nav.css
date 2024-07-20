@@ -1,0 +1,14 @@
+
+.nav {
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  backdrop-filter : blur(4px);
+  font-family: 'Courier New', Courier, monospace;
+  font-style: oblique;
+  z-index: 20;
+}
